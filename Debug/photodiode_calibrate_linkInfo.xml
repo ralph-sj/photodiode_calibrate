@@ -2,7 +2,7 @@
 <link_info>
    <banner>MSP430 Linker PC v4.3.5</banner>
    <copyright>Copyright (c) 2003-2014 Texas Instruments Incorporated</copyright>
-   <link_time>0x562f888b</link_time>
+   <link_time>0x562f8e05</link_time>
    <link_errors>0x0</link_errors>
    <output_file>photodiode_calibrate.out</output_file>
    <entry_point>
